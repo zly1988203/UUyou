@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+.activity{
+
+}
+.activity .card{
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1)
+}
+.activity .item{
+  border-width: 0px;
+  /*padding: 10px;*/
+}
+.activity .tabs{
+  background-size:0px;
+}
